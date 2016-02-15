@@ -30,6 +30,7 @@ void types() {
 			}
 		}
 		if (n == 30){
+			System.out.println("Alert! Lychrel candidate found! " + x);
 			yes++;
 		}
 	}
